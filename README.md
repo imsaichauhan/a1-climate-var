@@ -1,7 +1,7 @@
-# [Climate Physical Risk Quantification]
+# Climate Physical Risk Quantification
 
-**Track:** Resume A — Climate & ESG Finance
-**Status:** 🔄 In Progress
+**Track:** Resume A - Climate & ESG Finance
+**Status:** In Progress
 **Environment:** Python 3.12 (`resume-a`)  
 **Last Updated:** 2026-05-13
 
